@@ -1,0 +1,2 @@
+# ionicdiary
+PROJECT
